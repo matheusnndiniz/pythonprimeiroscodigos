@@ -1,4 +1,4 @@
-notas = []
+nota = []
 
 for x in range (5):
  codigo_aluno = input ("RM:")
